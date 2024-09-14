@@ -1,18 +1,14 @@
 License:: https://creativecommons.org/licenses/by-sa/4.0/
 
-
 Based on: https://www.printables.com/de/model/169008-ducatojumperboxer-rear-door-handle-verticalmini
 Thanks to Konfetti !
 
-
-
 Englisch:
-========
 On some Ducato/Jumper/Boxer-based motorhomes, the rear door cannot be opened from inside because the bed blocks the inside door handle. This mechanism replaces the existing handle with a small, vertically opening handle.
 I printed the parts in black PETG, the same color as the add-on parts of the base vehicle. For the rotary disk, I manually added some support in a few places.
 
 The original mechanism is unscrewed at the two screws on the left and right and the wire rope is unhooked. The new mechanism is inserted in the same way and with the original screws.
-Before final assembly, check the parts for accuracy of fit and rework if necessary. The holes are quite small. In my case, the M4 screws can be screwed in directly with a little force and thus cut their thread. 
+Before final assembly, check the parts for accuracy of fit and rework if necessary. The holes are quite small. In my case, the M4 screws can be screwed in directly with a little force and thus cut their thread.
 The hinge and handle are connected with M4 screws. I would first mount the turntable on the very short Bowden cable on the vehicle, and only then finally mount the three parts.
 
 Changes to the original.
@@ -21,23 +17,23 @@ Changes to the original.
 -New handle
 -Significantly less requirement for printing accuracy
 
-Translated with DeepL.com (free version)
+Note: I take no responsibility. You will probably die if you make changes to the vehicle. Hopefully not for >70 years... B) Regardless of the license, I do not want any commercial use !
 
 Deutsch:
-========
 Bei manchen Wohnmobilen auf Ducato/Jumper/Boxer-Basis lässt sich die Hecktür nicht von innen öffnen, da das Bett den inneren Türgriff blockiert. Dieser Mechanismus ersetzt den vorhandenen Griff durch einen kleinen, vertikal öffnenden Griff.
 Die Teile habe mit PETG schwarz gedruckt, also in der Farbe der Anbauteile des Basisfahrzeugs. Für die Drehscheibe habe ich manuell etwas Support an wenigen Stellen hinzugefügt.
 
 Der Originalmechanismus wird an den beiden Schrauben links und rechts abgeschraubt und das Drahtseil ausgehängt. Der neue Mechanismus wird auf die gleiche Weise und mit den ursprünglichen Schrauben eingesetzt.
-Vor der Finalen Montage die Teile  auf passgenauigkeit prüfen und ggf nacharbeiten. Die Löcher sind ziemlich knapp dimensioniert. Bei mir Lassen sich die M4 Schrauben mit etwas Kraft direkt eindrehen und schneiden sich so ihr Gewinde. 
+Vor der Finalen Montage die Teile  auf passgenauigkeit prüfen und ggf nacharbeiten. Die Löcher sind ziemlich knapp dimensioniert. Bei mir Lassen sich die M4 Schrauben mit etwas Kraft direkt eindrehen und schneiden sich so ihr Gewinde.
 Scharnier und Griff werden mit M4-Schrauben miteinander verbunden. Ich würde die Drehscheibe zuerst am sehr kurzen Bowdenzug am Fahrzeug montieren, und erst dann final die drei Teile montieren.
 
 Änderungen zum Original.
 -deutlich größer so dass die Aussparung an der Abdeckung vom Van-Ausbau komplett überdeckt wird
--mehr Materialverbrauch / Länger Druckzeit
+-mehr Materialverbrauch / Längere Druckzeit
 -Neuer Griff
 -Deutlich weniger Anforderung an Druckgenauigkeit
 
+Hinweis: Ich übernehme keine Verantwortung. Vermutlich werded ihr zu Tode kommen wenn ihr Änderungen am Fahrzeug macht. Hoffentlich erst in >70 Jahren... B)  Unabhängig von der Lizenz wünsche keine kommerzielle Nutzung !
 
 Creative Commons License
 Dieses Werk ist lizenziert unter einer
